@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/https//kouroumadev.github.io/notes/static/css/main.e6c13ad2.css",
+    "main.js": "/https//kouroumadev.github.io/notes/static/js/main.d33742b8.js",
+    "static/media/image.jpg": "/https//kouroumadev.github.io/notes/static/media/image.12e3b7cf608a4d8b1027.jpg",
+    "index.html": "/https//kouroumadev.github.io/notes/index.html",
+    "main.e6c13ad2.css.map": "/https//kouroumadev.github.io/notes/static/css/main.e6c13ad2.css.map",
+    "main.d33742b8.js.map": "/https//kouroumadev.github.io/notes/static/js/main.d33742b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d33742b8.js"
+  ]
+}
